@@ -21,7 +21,7 @@ aws configure
 S3 bucket name should be globally unique.Make sure to use a unique bucket name.
 
 ```bash
-aws s3 mb s3://kavindi-tfstate-bkt --region ap-southeast-1
+aws s3 mb s3://kavindi4-tfstate-bkt --region ap-southeast-1
 ```
 
 ### Step 3:  Enable Versioning
